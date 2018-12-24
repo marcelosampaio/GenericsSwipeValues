@@ -24,12 +24,7 @@ class ViewController: UIViewController {
         var aString = "Hello"
         var bString = "World"
         swapTwoValues(&aString, &bString)
-        
-        
-        
-        
-        
-        
+    
         
     }
 
